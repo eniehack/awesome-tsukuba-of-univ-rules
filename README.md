@@ -51,3 +51,4 @@
 ## その他資料
 
 - [クラス制度，学生担当教員制度，公的学生組織 - 筑波大学](https://www.tsukuba.ac.jp/campuslife/activity-unions-class/): 全代会（全学学類・専門学群・総合学学域群代表者会議）、クラス代表者、クラス代表者会議の関係性が解説されています
+- [全学学類・専門学群代表者会議 30周年記念誌](https://web.archive.org/web/20221030121934/https://www.stb.tsukuba.ac.jp/~zdk/files/30thRecord.pdf): 全代会設立30周年を記念して制作されたと考えられる資料。筑波大学における学生自治や全代会の歴史を調査するためには貴重である。
